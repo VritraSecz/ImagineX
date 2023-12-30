@@ -1,0 +1,5 @@
+openai==0.28
+telegram
+python-telegram-bot==13.7
+requests
+colorama
