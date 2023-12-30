@@ -59,7 +59,6 @@
 
 ![photo](https://i.ibb.co/6DqBDts/20231229-232024.jpg)
 
-![photo](https://i.ibb.co/gz3stWB/20231229-232134.jpg)
 
 ## Important Notice:
 - ImagineX is designed for personal use and exploration purposes only. It is not intended for commercial applications, including use within group settings. Kindly refrain from deploying ImagineX in commercial or group environments. For any specific use cases or inquiries regarding commercial applications, please reach out to the project maintainers for further guidance. Your cooperation ensures the responsible and ethical use of ImagineX.
