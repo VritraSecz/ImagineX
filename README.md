@@ -1,12 +1,12 @@
 <h1 align="center">ImagineX</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/MrHacker-X/ImagineX?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/MrHacker-X/ImagineX?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/MrHacker-X/ImagineX?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/MrHacker-X/ImagineX?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/MrHacker-X/ImagineX?style=for-the-badge&color=blue"><br>
-  <img src="https://hits.dwyl.com/MrHacker-X/ImagineX.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/VritraSecz/ImagineX?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/VritraSecz/ImagineX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/VritraSecz/ImagineX?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/VritraSecz/ImagineX?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/VritraSecz/ImagineX?style=for-the-badge&color=blue"><br>
+  <img src="https://hits.dwyl.com/VritraSecz/ImagineX.svg" width="140" height="28">
 <br>
 <br>
   <img src="https://img.shields.io/badge/Author-Alex Butler-purple?style=flat-square">
@@ -43,7 +43,7 @@
 - For Linux - (` apt-get install python3-pip -y `)
 
 - ` apt-get install git -y `
-- ` git clone https://github.com/MrHacker-X/ImagineX `
+- ` git clone https://github.com/VritraSecz/ImagineX `
 - ` cd ImagineX `
 - ` pip install -r requirements.txt `
 - ` nano config.py `
@@ -59,15 +59,12 @@
 
 ![photo](https://i.ibb.co/6DqBDts/20231229-232024.jpg)
 
+## Tutorial Video
+
+<a href="https://t.me/VritraSecz/161" >
+<img src="https://i.ibb.co/6BX0XM8/20230723-022358.jpg" >
+</a>
+
 
 ## Important Notice:
 - ImagineX is designed for personal use and exploration purposes only. It is not intended for commercial applications, including use within group settings. Kindly refrain from deploying ImagineX in commercial or group environments. For any specific use cases or inquiries regarding commercial applications, please reach out to the project maintainers for further guidance. Your cooperation ensures the responsible and ethical use of ImagineX.
-
-## Our another Repository
-
-+ You can check it out
-<p align="center"><a href="https://github.com/MrHacker-X/CryptoHunterX.git/"><img title="CryptoHunterX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=CryptoHunterX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/TraceX.git/"><img title="TraceX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=TraceX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/DevilX.git/"><img title="DevilX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=DevilX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/InfoGX.git/"><img title="InfoGX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=InfoGX&theme=dark"></a>
-<p align="center"><a href="https://github.com/MrHacker-X/ScannerX.git/"><img title="ScannerX" src="https://github-readme-stats.vercel.app/api/pin/?username=MrHacker-X&repo=ScannerX&theme=dark"></a>
